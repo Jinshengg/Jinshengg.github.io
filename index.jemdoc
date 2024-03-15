@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Welcome to Jinchi Chen's Homepage
+
+
+
+~~~
+{}{img_left}{photos/jinchi202201.jpeg}{photo}{150px}{214px}{}
+*Jinchi Chen*\n
+
+Assistant Professor\n
+
+School of Mathematics\n
+
+East China University of Science and Technology\n
+
+E-mail: /jcchen.phys/ at gmail dot com \n
+
+[https://scholar.google.com/citations?user=cd1Z91AAAAAJ&hl Google Scholar]
+~~~
+
+== About Me
+I'm an Assistant Professor in [https://math.ecust.edu.cn/ School of Mathematics] at [https://www.ecust.edu.cn/ East China University of Science and Technology] (ECUST).\n
+
+Before joining ECUST, I was a postdoctoral researcher in Fudan University, where I was fortunate to work with [http://homepage.fudan.edu.cn/wggao/zh/ Prof. Weiguo Gao] and [https://makwei.github.io/ Prof. Ke Wei]. 
+
+== Education
+- Ph.D. School of Physics at [http://www.bit.edu.cn/ Beijing Institute of Technology], under the supervision of [http://physics.bit.edu.cn/szdw/zzjzg/fg/lyl/index.htm Prof. Yulong Liu]. 
+- B.E. School of Information and Communication Engineering from [http://www.njit.edu.cn/ Nanjing Institute of Technology].
+
+
+== Research Interests
+My research interests lie in mathematics of data science, machine learning and signal processing, including compressed sensing, reinforcement learning and distributed optimization.
+
+
